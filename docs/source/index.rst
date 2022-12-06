@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to ERLC Manager's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a pythonlibrary for cooks and food lovers
